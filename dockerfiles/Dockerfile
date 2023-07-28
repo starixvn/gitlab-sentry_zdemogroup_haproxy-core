@@ -14,4 +14,3 @@ COPY certs/*.pem /etc/haproxy/
 RUN mkdir /usr/local/etc/haproxy/maps
 RUN cat /usr/local/etc/haproxy/configs/$ENV/maps/*.map > /usr/local/etc/haproxy/maps/hosts.map
 RUN if [ -e /usr/local/etc/haproxy/configs/$ENV/special-maps ] ; then cp /usr/local/etc/haproxy/configs/$ENV/special-maps/* /usr/local/etc/haproxy/maps/ ; fi ;
-RUN if [ -e /srv/haproxy-vg2/configs/$ENV/special-maps ] ; then cp /srv/haproxy-vg2/configs/$ENV/special-maps/* /usr/local/etc/haproxy/maps/ ; fi ;
