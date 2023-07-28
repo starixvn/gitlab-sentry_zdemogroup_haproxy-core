@@ -10,7 +10,7 @@ COPY configs/$ENV /usr/local/etc/haproxy/configs/$ENV
 RUN ls /usr/local/etc/haproxy/configs/$ENV
 RUN cat /usr/local/etc/haproxy/configs/$ENV/*.cfg > /usr/local/etc/haproxy/configs/$ENV/haproxy.cfg.tmp
 RUN cp /usr/local/etc/haproxy/configs/$ENV/haproxy.cfg.tmp /usr/local/etc/haproxy/haproxy.cfg
-COPY certs/*.pem /etc/haproxy/
-RUN mkdir /usr/local/etc/haproxy/maps
+RUN mkdir /usr/local/etc/haproxy/maps && mkdir /etc/haproxy/certs
+COPY certs/*.pem /etc/haproxy/certs/
 RUN cat /usr/local/etc/haproxy/configs/$ENV/maps/*.map > /usr/local/etc/haproxy/maps/hosts.map
 RUN if [ -e /usr/local/etc/haproxy/configs/$ENV/special-maps ] ; then cp /usr/local/etc/haproxy/configs/$ENV/special-maps/* /usr/local/etc/haproxy/maps/ ; fi ;
