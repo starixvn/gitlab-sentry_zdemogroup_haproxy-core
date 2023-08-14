@@ -1,6 +1,6 @@
 ###UAT
 ^/uat/game-client-60/ game_client_60_uat_be
-^/uat/game-client-59/ test_game_client_59_uat_be
+^/uat/game-client-59/ game_client_59_uat_be
 ^/uat/game-client-52/ game_client_52_uat_be
 ^/uat/game-client-9/ game_client_9_uat_be
 ^/uat/game-client-50/ game_client_50_uat_be
@@ -19,7 +19,7 @@
 
 ###SIT
 ^/sit/game-client-60/ game_client_60_sit_be
-^/sit/game-client-59/ test_game_client_59_sit_be
+^/sit/game-client-59/ game_client_59_sit_be
 ^/sit/game-client-52/ game_client_52_sit_be
 ^/sit/game-client-9/ game_client_9_sit_be
 ^/sit/game-client-50/ game_client_50_sit_be
