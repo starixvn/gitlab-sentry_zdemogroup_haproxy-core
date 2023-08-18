@@ -14,6 +14,6 @@
 /game-client-69/ l1_blackpink_client_prod_be
 /game-client-48/ l1_blockchain_baccarat_client_prod_be
 /game-client-47/ l1_treasure_island_client_prod_be
-/game/ game_configuration_service_prod_be
+/game/ l1_game_configuration_service_prod_be
 /game-client-66/ l1_candy_land_client_prod_be
 
