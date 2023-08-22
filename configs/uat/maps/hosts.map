@@ -6,9 +6,21 @@ l1uat.sgamesuat.com l1_game_client_uat_be
 l1miniuat.sgamesuat.com l1_instant_client_uat_be
 l1uatm.sgamesuat.com l1_game_mobi_uat_be
 
+l1uatdl.foodpandaoh.net l1_appdownload_uat_be
+l1uatkeno.foodpandaoh.net l1_keno_uat_be
+l1uat.foodpandaoh.net l1_game_client_uat_be
+l1miniuat.foodpandaoh.net l1_instant_client_uat_be
+l1uatm.foodpandaoh.net l1_game_mobi_uat_be
+
 ## SIT
 l1sitdownload.sgamesuat.com l1_appdownload_sit_be
 l1sitkeno.sgamesuat.com l1_keno_sit_be
 l1sit.sgamesuat.com l1_game_client_sit_be
 l1minisit.sgamesuat.com l1_instant_client_sit_be
 l1sitm.sgamesuat.com l1_game_mobi_sit_be
+
+l1sitdl.foodpandaoh.net l1_appdownload_sit_be
+l1sitkeno.foodpandaoh.net l1_keno_sit_be
+l1sit.foodpandaoh.net l1_game_client_sit_be
+l1minisit.foodpandaoh.net l1_instant_client_sit_be
+l1sitm.foodpandaoh.net l1_game_mobi_sit_be
