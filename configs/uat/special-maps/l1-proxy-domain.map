@@ -14,7 +14,7 @@
 ^/uat/game-client-69/ l1_blackpink_client_uat_be
 ^/uat/game-client-48/ l1_blockchain_baccarat_client_uat_be
 ^/uat/game-client-47/ l1_treasure_island_client_uat_be
-^/uat/game/ game_configuration_service_uat_be
+^/uat/game/ l1_game_configuration_service_uat_be
 ^/uat/game-client-66/ l1_candy_land_client_uat_be
 
 ###SIT
