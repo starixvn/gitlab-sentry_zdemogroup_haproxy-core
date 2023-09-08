@@ -18,6 +18,7 @@
 ^/uat/game-client-66/ l1_candy_land_client_uat_be
 ^/uat/site-71/ l1_color_game_uat_be
 ^/uat/site-67/ l1_dragon_tiger_fight_client_uat_be
+^/uat/game-client-70/ l1_transformers_client_uat_be
 
 ###SIT
 ^/sit/game-client-60/ l1_fantan_client_sit_be
@@ -39,3 +40,4 @@
 ^/sit/game-client-66/ l1_candy_land_client_sit_be
 ^/sit/site-71/ l1_color_game_sit_be
 ^/sit/site-67/ l1_dragon_tiger_fight_client_sit_be
+^/sit/game-client-70/ l1_transformers_client_sit_be
