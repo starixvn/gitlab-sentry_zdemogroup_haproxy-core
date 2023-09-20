@@ -16,3 +16,4 @@
 ^/game-client-47/ l1_treasure_island_client_be
 ^/game/ game_configuration_service_be
 ^/site-71/ l1_color_game_client_be
+^/site-instant-71/ l1_instant_color_game_client_be
