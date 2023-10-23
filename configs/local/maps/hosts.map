@@ -2,6 +2,7 @@ l1-appdownload.lumigame.com l1_appdownload_be
 l1-info.lumigame.com l1_info_be
 t1.sb33.site site1_be
 echo.lumigame.com site1_be
+eks-ingress.lumigame.com eks_ingress_be
 l1-keno.lumigame.com l1_keno_be
 l1-m.lumigame.com l1_m_be
 games.lumigame.com l1_game_client_be
