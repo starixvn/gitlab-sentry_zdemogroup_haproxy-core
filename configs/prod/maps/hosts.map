@@ -1,7 +1,7 @@
 ## Prod
 deployapi-eks.sabagame.com deployapi_eks_be
 eks-ingress.sabagame.com prod_eks_ingress_be
-prod-sc-web1.sportsfun.app site1_be
+prod-sc-web1.sportsfun.app website1_be
 portainer.sportsfun.app portainer_be
 grafana.sportsfun.app grafana_be
 
