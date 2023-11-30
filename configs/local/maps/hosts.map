@@ -3,6 +3,7 @@ l1-info.lumigame.com l1_info_be
 t1.sb33.site site1_be
 echo.lumigame.com site1_be
 eks-zabbix.lumigame.com eks_zabbix_be
+vn-zabbix.lumigame.com zabbix_be
 eks-ingress.lumigame.com eks_ingress_be
 deployapi-eks.lumigame.com deployapi_eks_be
 t1.lumigame.com website1_eks_be
