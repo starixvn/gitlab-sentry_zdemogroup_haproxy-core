@@ -16,3 +16,4 @@ grafana.lumigame.com grafana_be
 l1-history.lumigame.com l1_history_be
 l1-admin-api-public.lumigame.com l1_admin_api_be
 l1-mongoexpress-aws.lumigame.com l1_mongo_express_service_be
+l1-aws-game-api.lumigame.com l1-aws-game-api_be
