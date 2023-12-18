@@ -22,6 +22,7 @@
 ^/uat/game-client-72/ l2_pontoon_client_uat_be
 ^/uat/site-instant-71/ l2_instant_color_game_uat_be
 ^/uat/site-75/ l2_bandar_qiu_qiu_client_uat_be
+^/uat/game-client-74/ l2_one_piece_client_uat_be
 
 ###SIT
 ^/sit/game-client-60/ l2_fantan_client_sit_be
@@ -47,3 +48,4 @@
 ^/sit/game-client-72/ l2_pontoon_client_sit_be
 ^/sit/site-instant-71/ l2_instant_color_game_sit_be
 ^/sit/site-75/ l2_bandar_qiu_qiu_client_sit_be
+^/sit/game-client-74/ l2_one_piece_client_sit_be
