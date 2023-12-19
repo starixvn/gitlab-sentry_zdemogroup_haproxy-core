@@ -3,12 +3,15 @@ deployapi-eks.sgamesuat.com deployapi_eks_be
 eks-ingress.sgamesuat.com eks_ingress_be
 portainer.sportsfun.app portainer_be
 grafana.sportsfun.app grafana_be
+
 ## UAT
 l1uatdownload.sgamesuat.com l1_appdownload_uat_be
 l1uatkeno.sgamesuat.com l1_keno_uat_be
 l1uat.sgamesuat.com l1_game_client_uat_be
 l1miniuat.sgamesuat.com l1_instant_client_uat_be
 l1uatm.sgamesuat.com l1_game_mobi_uat_be
+l1uatadminapi.sgamesuat.com l1_admin_api_uat_be
+l1uathistory.sgamesuat.com l1_game_history_uat_be
 
 ## SIT
 l1sitdownload.sgamesuat.com l1_appdownload_sit_be
@@ -16,6 +19,8 @@ l1sitkeno.sgamesuat.com l1_keno_sit_be
 l1sit.sgamesuat.com l1_game_client_sit_be
 l1minisit.sgamesuat.com l1_instant_client_sit_be
 l1sitm.sgamesuat.com l1_game_mobi_sit_be
+l1sitadminapi.sgamesuat.com l1_admin_api_sit_be
+l1sithistory.sgamesuat.com l1_game_history_sit_be
 
 ###L2
 ## UAT
@@ -24,8 +29,16 @@ l2uat.sgamesuat.com l2_game_client_uat_be
 l2miniuat.sgamesuat.com l2_instant_client_uat_be
 l2uatm.sgamesuat.com l2_game_mobi_uat_be
 
+##temporary mapping
+l2uatadminapi.sgamesuat.com l1_admin_api_sit_be
+l2uathistory.sgamesuat.com l1_game_history_sit_be
+
 ## SIT
 l2sitkeno.sgamesuat.com l2_keno_sit_be
 l2sit.sgamesuat.com l2_game_client_sit_be
 l2minisit.sgamesuat.com l2_instant_client_sit_be
 l2sitm.sgamesuat.com l2_game_mobi_sit_be
+
+##temporary mapping
+l2sitadminapi.sgamesuat.com l1_admin_api_sit_be
+l2sithistory.sgamesuat.com l1_game_history_sit_be
