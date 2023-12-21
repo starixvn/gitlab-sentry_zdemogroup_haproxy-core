@@ -41,4 +41,4 @@ l2sitm.sgamesuat.com l2_game_mobi_sit_be
 
 ##temporary mapping
 l2sitadminapi.sgamesuat.com l1_admin_api_sit_be
-l2sithistory.sgamesuat.com l1_game_history_sit_be
+l2sithistory.sgamesuat.com l1_mongo_express_service_sit_be
