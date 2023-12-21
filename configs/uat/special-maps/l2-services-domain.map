@@ -1,3 +1,4 @@
 #temporary mapping for vg
 ^/uat/bandarqiuqiu/ l1_bandar_qiuqiu_service_uat_be
 ^/sit/bandarqiuqiu/ l1_bandar_qiuqiu_service_sit_be
+^/sit/rickytest/ l2_bandar_qiu_qiu_client_sit_be
