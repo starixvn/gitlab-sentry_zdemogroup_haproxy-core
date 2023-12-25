@@ -22,6 +22,7 @@
 ^/uat/game-client-72/ l1_pontoon_client_uat_be
 ^/uat/site-instant-71/ l1_instant_color_game_uat_be
 ^/uat/site-75/ l1_bandar_qiu_qiu_client_uat_be
+^/uat/game-client-74/ l1_one_piece_client_uat_be
 ^/uat/site-73/ l1_spaceflight_client_uat_be
 
 ###SIT
@@ -48,4 +49,6 @@
 ^/sit/game-client-72/ l1_pontoon_client_sit_be
 ^/sit/site-instant-71/ l1_instant_color_game_sit_be
 ^/sit/site-75/ l1_bandar_qiu_qiu_client_sit_be
+^/sit/game-client-74/ l1_one_piece_client_sit_be
 ^/sit/site-73/ l1_spaceflight_client_sit_be
+^/sit/mongoexpress/ l1_mongo_express_service_sit_be
