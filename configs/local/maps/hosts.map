@@ -20,3 +20,4 @@ l1-aws-game-api.lumigame.com l1-aws-game-api_be
 logs.lumigame.com logs_be
 argocd.lumigame.com argocd_be
 jaegereks.lumigame.com jaegereks_be
+es.lumigame.com elastic_be
