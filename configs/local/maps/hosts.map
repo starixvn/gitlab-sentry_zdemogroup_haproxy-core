@@ -19,5 +19,5 @@ l1-mongoexpress-aws.lumigame.com l1_mongo_express_service_be
 l1-aws-game-api.lumigame.com l1-aws-game-api_be
 logs.lumigame.com logs_be
 argocd.lumigame.com argocd_be
-jaegereks.lumigame.com jaegereks_be
+jaeger-collector-eks.lumigame.com jaeger_collector_eks_be
 es.lumigame.com elastic_be
