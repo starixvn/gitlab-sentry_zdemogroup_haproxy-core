@@ -21,6 +21,7 @@ l1minisit.sgamesuat.com l1_instant_client_sit_be
 l1sitm.sgamesuat.com l1_game_mobi_sit_be
 l1sitadminapi.sgamesuat.com l1_admin_api_sit_be
 l1sithistory.sgamesuat.com l1_game_history_sit_be
+l1sitmongo.sgamesuat.com l1_mongo_express_service_sit_be
 
 ###L2
 ## UAT
@@ -42,3 +43,4 @@ l2sitm.sgamesuat.com l2_game_mobi_sit_be
 ##temporary mapping
 l2sitadminapi.sgamesuat.com l1_admin_api_sit_be
 l2sithistory.sgamesuat.com l1_mongo_express_service_sit_be
+l2sitmongo.sgamesuat.com l1_mongo_express_service_sit_be
