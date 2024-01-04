@@ -29,10 +29,8 @@ l2uatkeno.sgamesuat.com l2_keno_uat_be
 l2uat.sgamesuat.com l2_game_client_uat_be
 l2miniuat.sgamesuat.com l2_instant_client_uat_be
 l2uatm.sgamesuat.com l2_game_mobi_uat_be
-l2uatadminapi.sgamesuat.com l2_game_api_uat_be
-
-##temporary mapping
-l2uathistory.sgamesuat.com l1_game_history_sit_be
+l2uatadminapi.sgamesuat.com l2_admin_api_uat_be
+l2uathistory.sgamesuat.com l2_game_history_uat_be
 
 ## SIT
 l2sitkeno.sgamesuat.com l2_keno_sit_be
@@ -40,7 +38,7 @@ l2sit.sgamesuat.com l2_game_client_sit_be
 l2minisit.sgamesuat.com l2_instant_client_sit_be
 l2sitm.sgamesuat.com l2_game_mobi_sit_be
 l2sitadminapi.sgamesuat.com l2_admin_api_sit_be
+l2sithistory.sgamesuat.com l2_game_history_sit_be
 
 ##temporary mapping
-l2sithistory.sgamesuat.com l1_mongo_express_service_sit_be
 l2sitmongo.sgamesuat.com l1_mongo_express_service_sit_be
