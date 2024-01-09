@@ -24,6 +24,7 @@
 ^/uat/site-75/ l1_bandar_qiu_qiu_client_uat_be
 ^/uat/game-client-74/ l1_one_piece_client_uat_be
 ^/uat/site-73/ l1_spaceflight_client_uat_be
+^/uat/game-client-77/ l1_chinese_blackjack_client_uat_be
 
 ###SIT
 ^/sit/game-client-60/ l1_fantan_client_sit_be
@@ -51,3 +52,4 @@
 ^/sit/site-75/ l1_bandar_qiu_qiu_client_sit_be
 ^/sit/game-client-74/ l1_one_piece_client_sit_be
 ^/sit/site-73/ l1_spaceflight_client_sit_be
+^/sit/game-client-77/ l1_chinese_blackjack_client_sit_be
