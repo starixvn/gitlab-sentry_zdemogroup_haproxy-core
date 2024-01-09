@@ -20,3 +20,4 @@ logs.lumigame.com logs_be
 argocd.lumigame.com argocd_be
 jaeger-collector-eks.lumigame.com jaeger_collector_eks_be
 es.lumigame.com elastic_be
+l1-aws-sg-api.lumigame.com l1_aws_sg_api_be
