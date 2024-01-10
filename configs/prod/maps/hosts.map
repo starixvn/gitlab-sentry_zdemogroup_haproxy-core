@@ -14,6 +14,9 @@ keno.sabagame.com l1_game_client_mega_keno_mobi_PROD_be
 taisaba.com l1_app_download_site_client_PROD_be
 www.taisaba.com l1_app_download_site_client_PROD_be
 
+awsapi.sabagame.com l1_aws_api_pro_be
+awsapi.gamesaba.com l1_aws_api_pro_be
+
 sabagame.com l1_game_client_prod_be
 gamesaba.com l1_game_client_prod_be
 www.sabagame.com l1_game_client_prod_be
@@ -23,5 +26,3 @@ history.sabagame.com l1_game_history_pro_be
 history.gamesaba.com l1_game_history_pro_be
 adminapi.sabagame.com l1_admin_api_pro_be
 adminapi.gamesaba.com l1_admin_api_pro_be
-awsapi.sabagame.com l1_aws_api_pro_be
-awsapi.gamesaba.com l1_aws_api_pro_be
