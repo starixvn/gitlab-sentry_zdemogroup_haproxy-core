@@ -16,6 +16,7 @@ l1-admin-api-public.lumigame.com l1_admin_api_be
 l1-aws-game-api.lumigame.com l1-aws-game-api_be
 logs.lumigame.com logs_be
 argocd.lumigame.com argocd_be
+haproxy-gw.lumigame.com default_backend_nodes
 haproxy-k8s.lumigame.com backend_ingress_stat
 deployapi-k8s.lumigame.com backend_ingress
 jaeger-collector-eks.lumigame.com jaeger_collector_eks_be
