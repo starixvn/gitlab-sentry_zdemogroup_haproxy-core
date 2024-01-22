@@ -25,5 +25,5 @@ awsapi.lumigame.com l1_aws_sg_api_be
 argocd-local-1.lumigame.com     argocd_site_be
 hub.lumigame.com    hub_site_main_be
 logs.lumigame.com logs_new_be
-#
-
+gn-admin-api.lumigame.com gn_admin_api_be
+gn-admin.lumigame.com gn_admin_be
