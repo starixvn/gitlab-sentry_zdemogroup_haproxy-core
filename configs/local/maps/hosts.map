@@ -27,3 +27,7 @@ hub.lumigame.com    hub_site_main_be
 logs.lumigame.com logs_new_be
 gn-admin-api.lumigame.com gn_admin_api_be
 gn-admin.lumigame.com gn_admin_be
+gn-gamelobby-simulator.lumigame.com gn_gamelobby_simulator_be
+gn-result.lumigame.com gn_result_be
+gn-api.lumigame.com gn-api_be
+gn-guide.lumigame.com gn-game-guide_be
