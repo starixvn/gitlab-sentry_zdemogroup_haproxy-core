@@ -32,3 +32,4 @@ gn-result.lumigame.com gn_result_be
 gn-api.lumigame.com gn-api_be
 gn-guide.lumigame.com backend_ingress
 weave-scope.lumigame.com  weavescope_be
+gn-game.lumigame.com gn_game_client_be
