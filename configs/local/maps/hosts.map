@@ -30,5 +30,5 @@ gn-admin.lumigame.com gn_admin_be
 gn-gamelobby-simulator.lumigame.com gn_gamelobby_simulator_be
 gn-result.lumigame.com gn_result_be
 gn-api.lumigame.com gn-api_be
-gn-guide.lumigame.com gn-game-guide_be
+gn-guide.lumigame.com backend_ingress
 weave-scope.lumigame.com  weavescope_be
