@@ -34,3 +34,4 @@ gn-guide.lumigame.com backend_ingress
 weave-scope.lumigame.com  weavescope_be
 gn-game.lumigame.com backend_ingress
 trivy.lumigame.com  backend_ingress
+gn-owapi-simulator.lumigame.com backend_ingress

@@ -1,2 +1,2 @@
-^/user/ gn_user_service_be
-^/game-management-service/ gn_game_management_service_be
+^/user/ backend_ingress
+^/game-management-service/ backend_ingress
