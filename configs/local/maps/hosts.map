@@ -37,3 +37,4 @@ trivy.lumigame.com  backend_ingress
 gn-owapi-simulator.lumigame.com backend_ingress
 hub-k8s.lumigame.com    hub_site_k8s_be
 sentry-k8s.lumigame.com     backend_ingress
+longhorn.lumigame.com backend_ingress
