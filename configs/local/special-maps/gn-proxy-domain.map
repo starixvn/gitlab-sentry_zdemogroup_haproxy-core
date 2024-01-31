@@ -1,3 +1,4 @@
 ^/user/ backend_ingress
 ^/game-management-service/ backend_ingress
 ^/notification/ backend_ingress
+^/bacball/ backend_ingress
