@@ -1,2 +1,3 @@
 ^/bandarqiuqiu/ l1_bandar_qiuqiu_service_be
 ^/mongoexpress/ l1_mongo_express_service_be
+^/user/ backend_ingress
