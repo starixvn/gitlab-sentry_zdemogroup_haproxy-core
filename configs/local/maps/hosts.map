@@ -51,4 +51,3 @@ result.lumigame.com backend_ingress
 l1-gw.lumigame.com backend_ingress
 l1-guide.lumigame.com backend_ingress
 notification-bot.lumigame.com backend_ingress
-l1-proxy.lumigame.com/.*$ backend_ingress
