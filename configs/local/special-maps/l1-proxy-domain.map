@@ -63,3 +63,4 @@
 ^/dragonball(/.*)?$ backend_ingress
 ^/chineseblackjack(/.*)?$ backend_ingress
 ^/onepiece(/.*)?$ backend_ingress
+^/game-management-service(/.*)?$ backend_ingress
