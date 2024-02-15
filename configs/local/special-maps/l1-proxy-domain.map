@@ -60,3 +60,6 @@
 ^/fortunecat/ backend_ingress
 ^/winthreecards/ backend_ingress
 ^/game/ backend_ingress
+^/dragonball(/.*)?$ backend_ingress
+^/chineseblackjack(/.*)?$ backend_ingress
+^/onepiece(/.*)?$ backend_ingress
