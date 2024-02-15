@@ -59,3 +59,4 @@
 ^/fantan/ backend_ingress
 ^/fortunecat/ backend_ingress
 ^/winthreecards/ backend_ingress
+^/game/ backend_ingress
