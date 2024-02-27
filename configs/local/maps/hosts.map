@@ -42,6 +42,7 @@ sentry-k8s.lumigame.com     backend_ingress
 longhorn.lumigame.com backend_ingress
 hub-old.lumigame.com  hub_site_old_main_be
 portainer-k8s.lumigame.com  portainer_server_be
+portainer.lumigame.com  portainer_server_be
 auth.lumigame.com backend_ingress
 api.lumigame.com backend_ingress
 admin.lumigame.com backend_ingress
