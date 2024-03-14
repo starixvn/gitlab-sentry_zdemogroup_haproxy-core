@@ -4,3 +4,4 @@
 ^/bacball/ backend_ingress
 ^/bacball-1/ backend_ingress
 ^/monitoring(/.*)?$ backend_ingress
+^/gateway(/.*)?$ backend_ingress
