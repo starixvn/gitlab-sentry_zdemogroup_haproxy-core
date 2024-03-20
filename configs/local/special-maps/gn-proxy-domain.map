@@ -2,7 +2,8 @@
 ^/game-management-service/ backend_ingress
 ^/notification/ backend_ingress
 ^/bacball/ backend_ingress
+^/bacball1/ backend_ingress
 ^/bacball2/ backend_ingress
-^/bacball-1/ backend_ingress
+^/bacball-test/ backend_ingress
 ^/monitoring(/.*)?$ backend_ingress
 ^/gateway(/.*)?$ backend_ingress
