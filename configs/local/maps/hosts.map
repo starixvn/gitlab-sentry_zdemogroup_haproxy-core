@@ -109,3 +109,4 @@ l1-gw.luminetsoft.com backend_ingress
 l1-guide.luminetsoft.com backend_ingress
 notification-bot.luminetsoft.com backend_ingress
 site-test.lumigame.com  backend_ingress
+vault.lumigame.com  backend_ingress
