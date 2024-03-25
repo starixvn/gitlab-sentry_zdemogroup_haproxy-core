@@ -53,6 +53,7 @@ result.lumigame.com backend_ingress
 l1-gw.lumigame.com backend_ingress
 l1-guide.lumigame.com backend_ingress
 notification-bot.lumigame.com backend_ingress
+gn-auth.lumigame.com backend_ingress
 
 # luminetsoft.com
 l1-appdownload.luminetsoft.com l1_appdownload_be
@@ -110,3 +111,4 @@ l1-guide.luminetsoft.com backend_ingress
 notification-bot.luminetsoft.com backend_ingress
 site-test.lumigame.com  backend_ingress
 vault.lumigame.com  backend_ingress
+gn-auth.luminetsoft.com backend_ingress
