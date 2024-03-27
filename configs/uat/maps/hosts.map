@@ -47,20 +47,6 @@ l2sitawsapi.sgamesuat.com l2_sg_api_sit_be
 ### GN
 ## UAT
 gnuat.sgamesuat.com gn_game_client_uat_be
-gnuatapi.sgamesuat.com gn_sg_api_uat_be
-gnuatadm.sgamesuat.com gn_admin_site_uat_be
-gnuatresult.sgamesuat.com gn_game_result_uat_be
-gnuatgw.sgamesuat.com gn_gateway_uat_be
-gnguidesuat.sgamesuat.com gn_guides_uat_be
-gn-lobby-simulator-uat.sgamesuat.com gn_lobby_simulator_uat_be
-gn-owapi-simulator-uat.sgamesuat.com gn_ow_api_simulator_uat_be
 
 ## SIT
 gnsit.sgamesuat.com gn_game_client_sit_be
-gnsitapi.sgamesuat.com gn_sg_api_sit_be
-gnsitadm.sgamesuat.com gn_admin_site_sit_be
-gnsitresult.sgamesuat.com gn_game_result_sit_be
-gnsitgw.sgamesuat.com gn_gateway_sit_be
-gnguidessit.sgamesuat.com gn_guides_sit_be
-gn-lobby-simulator-sit.sgamesuat.com gn_lobby_simulator_sit_be
-gn-owapi-simulator-sit.sgamesuat.com gn_ow_api_simulator_sit_be
