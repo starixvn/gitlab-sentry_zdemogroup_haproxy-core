@@ -7,6 +7,8 @@
 ^/bacball-test/ backend_ingress
 ^/nextball1/ backend_ingress
 ^/nextball2/ backend_ingress
-^/nextball-test/ backend_ingress
+^/luckynext1/ backend_ingress
+^/luckynext2/ backend_ingress
+^/luckynext-test/ backend_ingress
 ^/monitoring(/.*)?$ backend_ingress
 ^/gateway(/.*)?$ backend_ingress
