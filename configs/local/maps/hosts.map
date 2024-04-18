@@ -23,8 +23,8 @@ deployapi-k8s.lumigame.com backend_ingress
 jaeger-collector-eks.lumigame.com jaeger_collector_eks_be
 es.lumigame.com elastic_be
 awsapi.lumigame.com l1_aws_sg_api_be
-# hub.lumigame.com hub_site_k8s_be
-hub.lumigame.com hub_site_main_be
+hub.lumigame.com hub_site_k8s_be
+# hub.lumigame.com hub_site_main_be
 hubbk.lumigame.com hub_site_main_be
 logs.lumigame.com logs_new_be
 gn-admin-api.lumigame.com backend_ingress
