@@ -24,6 +24,7 @@
 ^/uat/site-75/ l1_bandar_qiu_qiu_client_uat_be
 ^/uat/game-client-74/ l1_one_piece_client_uat_be
 ^/uat/site-73/ l1_spaceflight_client_uat_be
+^/uat/site-78/ l1_football_dice_client_uat_be
 ^/uat/game-client-77/ l1_chinese_blackjack_client_uat_be
 ^/uat/game-client-76/ l1_dragon_ball_client_uat_be
 
@@ -54,5 +55,6 @@
 ^/sit/site-75/ l1_bandar_qiu_qiu_client_sit_be
 ^/sit/game-client-74/ l1_one_piece_client_sit_be
 ^/sit/site-73/ l1_spaceflight_client_sit_be
+^/sit/site-73/ l1_football_dice_client_sit_be
 ^/sit/game-client-77/ l1_chinese_blackjack_client_sit_be
 ^/sit/game-client-76/ l1_dragon_ball_client_sit_be
