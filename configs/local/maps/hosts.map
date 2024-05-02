@@ -119,3 +119,5 @@ gn-auth.luminetsoft.com backend_ingress
 gn-game-1.luminetsoft.com backend_ingress
 gn-game-2.luminetsoft.com backend_ingress
 gn-game-3.luminetsoft.com backend_ingress
+browserless.lumigame.com backend_ingress
+live.lumigame.com backend_ingress
