@@ -64,3 +64,4 @@
 ^/chineseblackjack(/.*)?$ backend_ingress
 ^/onepiece(/.*)?$ backend_ingress
 ^/game-management-service(/.*)?$ backend_ingress
+^/baccaratx(/.*)?$ backend_ingress
