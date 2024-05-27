@@ -12,5 +12,6 @@
 ^/luckynext-test/ backend_ingress
 ^/seball1/ backend_ingress
 ^/seball-test/ backend_ingress
+^/luckythree/ backend_ingress
 ^/monitoring(/.*)?$ backend_ingress
 ^/gateway(/.*)?$ backend_ingress
