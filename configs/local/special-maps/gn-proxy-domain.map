@@ -13,5 +13,6 @@
 ^/seball1/ backend_ingress
 ^/seball-test/ backend_ingress
 ^/luckythree/ backend_ingress
+^/sicball/ backend_ingress
 ^/monitoring(/.*)?$ backend_ingress
 ^/gateway(/.*)?$ backend_ingress
