@@ -29,6 +29,7 @@
 ^/uat/game-client-77/ l2_chinese_blackjack_client_uat_be
 ^/uat/game-client-76/ l2_dragon_ball_client_uat_be
 ^/uat/site-instant-80/ l2_instant_coin_toss_uat_be
+^/uat/game-client-80/ l2_mini_coin_toss_client_uat_be
 
 
 ###SIT
@@ -62,4 +63,4 @@
 ^/sit/game-client-77/ l2_chinese_blackjack_client_sit_be
 ^/sit/game-client-76/ l2_dragon_ball_client_sit_be
 ^/sit/site-instant-80/ l2_instant_coin_toss_sit_be
-
+^/sit/game-client-80/ l2_mini_coin_toss_client_sit_be
