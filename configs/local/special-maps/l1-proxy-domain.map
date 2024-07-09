@@ -65,3 +65,5 @@
 ^/onepiece(/.*)?$ backend_ingress
 ^/game-management-service(/.*)?$ backend_ingress
 ^/baccaratx(/.*)?$ backend_ingress
+^/cointoss/ backend_ingress
+^/footballcointoss/ backend_ingress
