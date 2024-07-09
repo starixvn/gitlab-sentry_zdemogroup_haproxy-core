@@ -28,4 +28,7 @@
 ^/game-client-66/ l1_candy_land_client_be
 ^/game-client-72/ l1_pontoon_client_be
 ^/shared-resources/ backend_ingress
+^/site-instant-80/ l1_instant_coin_toss_client_be
+^/site-instant-93/ l1_instant_football_coin_toss_client_be
+
 
