@@ -67,3 +67,4 @@
 ^/baccaratx(/.*)?$ backend_ingress
 ^/cointoss/ backend_ingress
 ^/footballcointoss/ backend_ingress
+^/footballdice(/.*)?$ backend_ingress
