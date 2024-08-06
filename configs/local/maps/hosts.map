@@ -122,3 +122,15 @@ gn-game-2.luminetsoft.com backend_ingress
 gn-game-3.luminetsoft.com backend_ingress
 browserless.lumigame.com backend_ingress
 live.lumigame.com backend_ingress
+
+#nexentgame.com
+gn-gamelobby-simulator.nexentgame.com backend_ingress
+gn-result.nexentgame.com backend_ingress
+gn-api.nexentgame.com backend_ingress
+gn-guide.nexentgame.com backend_ingress
+gn-game.nexentgame.com backend_ingress
+gn-owapi-simulator.nexentgame.com backend_ingress
+gn-auth.nexentgame.com backend_ingress
+gn-game-1.nexentgame.com backend_ingress
+gn-game-2.nexentgame.com backend_ingress
+gn-game-3.nexentgame.com backend_ingress
