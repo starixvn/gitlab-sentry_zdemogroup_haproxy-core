@@ -134,3 +134,7 @@ gn-auth.nexentgame.com backend_ingress
 gn-game-1.nexentgame.com backend_ingress
 gn-game-2.nexentgame.com backend_ingress
 gn-game-3.nexentgame.com backend_ingress
+
+#m2
+bo.nexentgame.com backend_ingress
+bo-api.nexentgame.com backend_ingress
