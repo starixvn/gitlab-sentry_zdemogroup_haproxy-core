@@ -139,3 +139,5 @@ gn-game-3.nexentgame.com backend_ingress
 bo.nexentgame.com backend_ingress
 bo-api.nexentgame.com backend_ingress
 op.nexentgame.com backend_ingress
+op-api.nexentgame.com backend_ingress
+global-api.nexentgame.com backend_ingress
