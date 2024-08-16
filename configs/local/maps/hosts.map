@@ -142,3 +142,4 @@ op.nexentgame.com backend_ingress
 op-api.nexentgame.com backend_ingress
 global-api.nexentgame.com backend_ingress
 player-site-t28.nexentgame.com backend_ingress
+brand-certificate.nexentgame.com backend_ingress
