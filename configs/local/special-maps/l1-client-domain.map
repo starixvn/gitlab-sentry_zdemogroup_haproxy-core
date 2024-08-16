@@ -30,5 +30,6 @@
 ^/shared-resources/ backend_ingress
 ^/site-instant-80/ l1_instant_coin_toss_client_be
 ^/site-instant-93/ l1_instant_football_coin_toss_client_be
+^/game-client-80/ l1_mini_coin_toss_client_be
 
 
