@@ -143,3 +143,10 @@ op-api.nexentgame.com backend_ingress
 global-api.nexentgame.com backend_ingress
 player-site-t28.nexentgame.com backend_ingress
 brand-certificate.nexentgame.com backend_ingress
+vip-level.nexentgame.com backend_ingress
+player-service.nexentgame.com backend_ingress
+player-all-agent.nexentgame.com backend_ingress
+payment-service.nexentgame.com backend_ingress
+cash-service-worker.nexentgame.com backend_ingress
+brand-game-credit-api.nexentgame.com backend_ingress
+
