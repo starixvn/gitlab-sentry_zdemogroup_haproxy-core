@@ -149,4 +149,7 @@ player-all-agent.nexentgame.com backend_ingress
 payment-service.nexentgame.com backend_ingress
 cash-service-worker.nexentgame.com backend_ingress
 brand-game-credit-api.nexentgame.com backend_ingress
-
+cash-service.nexentgame.com backend_ingress
+game-wagers.nexentgame.com backend_ingress
+player-bucket.nexentgame.com backend_ingress
+cash-query.nexentgame.com backend_ingress
