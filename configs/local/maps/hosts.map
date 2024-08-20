@@ -154,3 +154,5 @@ game-wagers.nexentgame.com backend_ingress
 player-bucket.nexentgame.com backend_ingress
 cash-query.nexentgame.com backend_ingress
 promotion-service.nexentgame.com backend_ingress
+game-providers.nexentgame.com backend_ingress
+sb-interface.nexentgame.com backend_ingress
