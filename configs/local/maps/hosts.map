@@ -162,3 +162,4 @@ game-fund-transfer.nexentgame.com backend_ingress
 agent-service.nexentgame.com backend_ingress
 file-service.nexentgame.com backend_ingress
 sb-gamerecord.nexentgame.com backend_ingress
+domain-setting.nexentgame.com backend_ingress
