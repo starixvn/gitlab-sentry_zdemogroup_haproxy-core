@@ -168,3 +168,4 @@ validate-code.nexentgame.com backend_ingress
 gamecommand.nexentgame.com backend_ingress
 gamebets.nexentgame.com backend_ingress
 report-aggregate.nexentgame.com backend_ingress
+saba-sport-simulator.nexentgame.com backend_ingress
