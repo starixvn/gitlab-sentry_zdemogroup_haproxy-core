@@ -169,3 +169,4 @@ gamecommand.nexentgame.com backend_ingress
 gamebets.nexentgame.com backend_ingress
 report-aggregate.nexentgame.com backend_ingress
 saba-sport-simulator.nexentgame.com backend_ingress
+withdraw-limit.nexentgame.com backend_ingress
