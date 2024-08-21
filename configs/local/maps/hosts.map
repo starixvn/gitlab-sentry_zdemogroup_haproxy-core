@@ -157,3 +157,5 @@ promotion-service.nexentgame.com backend_ingress
 game-providers.nexentgame.com backend_ingress
 sb-interface.nexentgame.com backend_ingress
 email-api.nexentgame.com backend_ingress
+game-pluggable.nexentgame.com backend_ingress
+game-fund-transfer.nexentgame.com backend_ingress
