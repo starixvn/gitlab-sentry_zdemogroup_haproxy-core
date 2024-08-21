@@ -163,3 +163,5 @@ agent-service.nexentgame.com backend_ingress
 file-service.nexentgame.com backend_ingress
 sb-gamerecord.nexentgame.com backend_ingress
 domain-setting.nexentgame.com backend_ingress
+report-api.nexentgame.com backend_ingress
+validate-code.nexentgame.com backend_ingress
