@@ -171,3 +171,4 @@ report-aggregate.nexentgame.com backend_ingress
 saba-sport-simulator.nexentgame.com backend_ingress
 withdraw-limit.nexentgame.com backend_ingress
 marketing-report.nexentgame.com backend_ingress
+saba-single-wallet.nexentgame.com backend_ingress
