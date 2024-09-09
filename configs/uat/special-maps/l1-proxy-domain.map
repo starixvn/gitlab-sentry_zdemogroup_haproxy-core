@@ -27,7 +27,7 @@
 ^/uat/site-81/ l1_bac81_client_uat_be
 ^/uat/site-95/ l1_sedie3_client_uat_be
 ^/uat/site-78/ l1_football_dice_client_uat_be
-^/uat/site-96/ l1_kara_krus_client_uat_be
+^/uat/site-96/ l1_karakrus_client_uat_be
 ^/uat/game-client-79/ l1_football_slot_client_uat_be
 ^/uat/game-client-77/ l1_chinese_blackjack_client_uat_be
 ^/uat/game-client-76/ l1_dragon_ball_client_uat_be
@@ -65,7 +65,7 @@
 ^/sit/site-81/ l1_bac81_client_sit_be
 ^/sit/site-95/ l1_sedie3_client_sit_be
 ^/sit/site-78/ l1_football_dice_client_sit_be
-^/sit/site-96/ l1_kara_krus_client_sit_be
+^/sit/site-96/ l1_karakrus_client_sit_be
 ^/sit/game-client-79/ l1_football_slot_client_sit_be
 ^/sit/game-client-77/ l1_chinese_blackjack_client_sit_be
 ^/sit/game-client-76/ l1_dragon_ball_client_sit_be
