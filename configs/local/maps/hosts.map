@@ -58,6 +58,7 @@ gn-auth.lumigame.com backend_ingress
 gn-game-1.lumigame.com backend_ingress
 gn-game-2.lumigame.com backend_ingress
 gn-game-3.lumigame.com backend_ingress
+gn-core-client-demo.lumigame.com backend_ingress
 
 # luminetsoft.com
 l1-appdownload.luminetsoft.com l1_appdownload_be
