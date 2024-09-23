@@ -25,6 +25,7 @@
 ^/uat/game-client-74/ l2_one_piece_client_uat_be
 ^/uat/site-73/ l2_spaceflight_client_uat_be
 ^/uat/site-81/ l2_bac81_client_uat_be
+^/uat/site-94/ l2_pusoy_client_uat_be
 ^/uat/site-95/ l2_sedie3_client_uat_be
 ^/uat/site-78/ l2_football_dice_client_uat_be
 ^/uat/site-96/ l2_karakrus_client_uat_be
@@ -63,6 +64,7 @@
 ^/sit/game-client-74/ l2_one_piece_client_sit_be
 ^/sit/site-73/ l2_spaceflight_client_sit_be
 ^/sit/site-81/ l2_bac81_client_sit_be
+^/sit/site-94/ l2_pusoy_client_sit_be
 ^/sit/site-95/ l2_sedie3_client_sit_be
 ^/sit/site-78/ l2_football_dice_client_sit_be
 ^/sit/site-96/ l2_karakrus_client_sit_be
