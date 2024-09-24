@@ -59,12 +59,12 @@ gn-game-1.lumigame.com backend_ingress
 gn-game-2.lumigame.com backend_ingress
 gn-game-3.lumigame.com backend_ingress
 gn-core-client-demo.lumigame.com backend_ingress
-gn-gamelobby-simulator-1.lumigame.com backend_ingress
-gn-owapi-simulator-1.lumigame.com backend_ingress
-gn-result-1.lumigame.com backend_ingress
-gn-api-1.lumigame.com backend_ingress
-gn-guide-1.lumigame.com backend_ingress
-gn-auth-1.lumigame.com backend_ingress
+gn-glbs1.lumigame.com backend_ingress
+gn-ows1.lumigame.com backend_ingress
+gn-result1.lumigame.com backend_ingress
+gn-api1.lumigame.com backend_ingress
+gn-guide1.lumigame.com backend_ingress
+gn-auth1.lumigame.com backend_ingress
 gn-admin-api1.lumigame.com backend_ingress
 gn-admin1.lumigame.com backend_ingress
 
