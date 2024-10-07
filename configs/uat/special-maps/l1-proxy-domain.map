@@ -105,3 +105,5 @@
 ^/site-100/ l1_bac100_client_uat_be
 ^/site-101/ l1_bac101_client_sit_be
 ^/site-101/ l1_bac101_client_uat_be
+^/shared-resources/ l1_client_shared_resources_sit_be
+^/shared-resources/ l1_client_shared_resources_uat_be
