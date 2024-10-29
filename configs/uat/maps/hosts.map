@@ -47,7 +47,9 @@ l2sitawsapi.sgamesuat.com l2_sg_api_sit_be
 ### GN
 ## UAT
 gnuat.sgamesuat.com gn_game_client_uat_be
+gnminiuat.sgamesuat.com gn_instant_game_client_uat_be
 
 ## SIT
 gnsit.sgamesuat.com gn_game_client_sit_be
 gnminisit.sgamesuat.com gn_instant_game_client_sit_be
+
