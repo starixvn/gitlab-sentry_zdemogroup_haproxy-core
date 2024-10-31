@@ -108,3 +108,4 @@
 ^/uat/site-101/ l1_bac101_client_uat_be
 ^/sit/shared-resources/ l1_client_shared_resources_sit_be
 ^/uat/shared-resources/ l1_client_shared_resources_uat_be
+^/sit/game-client-93/ l1_mini_football_coin_toss_client_sit_be
