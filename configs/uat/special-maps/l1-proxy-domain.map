@@ -30,6 +30,7 @@
 ^/uat/site-78/ l1_football_dice_client_uat_be
 ^/uat/site-96/ l1_karakrus_client_uat_be
 ^/uat/game-client-79/ l1_football_slot_client_uat_be
+^/uat/game-client-46/ l1_night_club_client_uat_be
 ^/uat/game-client-77/ l1_chinese_blackjack_client_uat_be
 ^/uat/game-client-76/ l1_dragon_ball_client_uat_be
 ^/uat/site-instant-80/ l1_instant_coin_toss_uat_be
@@ -55,6 +56,7 @@
 ^/sit/game-client-69/ l1_blackpink_client_sit_be
 ^/sit/game-client-48/ l1_blockchain_baccarat_client_sit_be
 ^/sit/game-client-47/ l1_treasure_island_client_sit_be
+^/sit/game-client-46/ l1_night_club_client_sit_be
 ^/sit/game/ l1_game_configuration_service_sit_be
 ^/sit/game-client-66/ l1_candy_land_client_sit_be
 ^/sit/site-71/ l1_color_game_sit_be
@@ -107,7 +109,7 @@
 ^/uat/site-100/ l1_bac100_client_uat_be
 ^/sit/site-101/ l1_bac101_client_sit_be
 ^/uat/site-101/ l1_bac101_client_uat_be
-^/sit/game-client-103/ l1_mini_seven_up_down_client_uat_be
+^/sit/game-client-103/ l1_mini_seven_up_down_client_sit_be
 ^/sit/shared-resources/ l1_client_shared_resources_sit_be
 ^/uat/shared-resources/ l1_client_shared_resources_uat_be
 ^/sit/game-client-93/ l1_mini_football_coin_toss_client_sit_be
