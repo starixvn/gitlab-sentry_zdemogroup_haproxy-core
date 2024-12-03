@@ -182,3 +182,15 @@ saba-sport-simulator.nexentgame.com backend_ingress
 withdraw-limit.nexentgame.com backend_ingress
 marketing-report.nexentgame.com backend_ingress
 saba-single-wallet.nexentgame.com backend_ingress
+
+#sk
+sk-gamelobby-simulator.lumigame.com backend_ingress
+sk-result.lumigame.com backend_ingress
+sk-api.lumigame.com backend_ingress
+sk-guide.lumigame.com backend_ingress
+sk-game.lumigame.com backend_ingress
+sk-owapi-simulator.lumigame.com backend_ingress
+sk-auth.lumigame.com backend_ingress
+sk-game-1.lumigame.com backend_ingress
+sk-game-2.lumigame.com backend_ingress
+sk-game-3.lumigame.com backend_ingress
