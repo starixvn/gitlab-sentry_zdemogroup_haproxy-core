@@ -67,6 +67,7 @@ gn-guide1.lumigame.com backend_ingress
 gn-auth1.lumigame.com backend_ingress
 gn-admin-api1.lumigame.com backend_ingress
 gn-admin1.lumigame.com backend_ingress
+l1-auth1.lumigame.com backend_ingress
 
 
 # luminetsoft.com
