@@ -39,6 +39,7 @@
 ^/uat/game-client-103/ l2_mini_seven_up_down_client_uat_be
 ^/uat/game-client-38/ l2_heroes_legend_client_uat_be
 ^/uat/game-client-93/ l2_mini_football_coin_toss_client_uat_be
+^/uat/site-106/ l2_christmas_crash_client_uat_be
 
 
 ###SIT
@@ -116,3 +117,4 @@
 ^/sit/game-client-103/ l2_mini_seven_up_down_client_sit_be
 ^/sit/game-client-38/ l2_heroes_legend_client_sit_be
 ^/sit/game-client-93/ l2_mini_football_coin_toss_client_sit_be
+^/sit/site-106/ l2_christmas_crash_client_sit_be
