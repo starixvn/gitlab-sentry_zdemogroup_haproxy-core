@@ -53,3 +53,9 @@ gnminiuat.sgamesuat.com gn_instant_game_client_uat_be
 gnsit.sgamesuat.com gn_game_client_sit_be
 gnminisit.sgamesuat.com gn_instant_game_client_sit_be
 
+### SK
+## UAT
+skuat.sgamesuat.com sk_game_client_uat_be
+
+## SIT
+sksit.sgamesuat.com sk_game_client_sit_be
