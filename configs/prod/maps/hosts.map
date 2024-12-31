@@ -3,9 +3,9 @@ deployapi-eks.sabagame.com deployapi_eks_be
 eks-ingress.sabagame.com prod_eks_ingress_be
 prod-sc-web1.sportsfun.app website1_be
 portainer.sportsfun.app portainer_be
-grafana.sportsfun.app grafana_be
-g-nex.sportsfun.app grafana_be
-g-lumi.sportsfun.app grafana_be
+#grafana.sportsfun.app grafana_be
+#g-nex.sportsfun.app grafana_be
+#g-lumi.sportsfun.app grafana_be
 prometheus-eks-prod.sportsfun.app prometheus_be
 
 mini.sabagame.com l1_instant_game_client_PROD_be
