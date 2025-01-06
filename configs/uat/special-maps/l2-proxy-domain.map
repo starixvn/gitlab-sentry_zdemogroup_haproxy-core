@@ -43,6 +43,7 @@
 ^/uat/site-106/ l2_christmas_crash_client_uat_be
 ^/uat/site-instant-103/ l2_instant_seven_up_down_client_uat_be
 ^/uat/site-104/ l2_marble_football_client_uat_be
+^/uat/site-107/ l2_tap_fortune_client_uat_be
 
 
 ###SIT
@@ -124,3 +125,4 @@
 ^/sit/site-106/ l2_christmas_crash_client_sit_be
 ^/sit/site-instant-103/ l2_instant_seven_up_down_client_sit_be
 ^/sit/site-104/ l2_marble_football_client_sit_be
+^/sit/site-107/ l2_tap_fortune_client_sit_be
