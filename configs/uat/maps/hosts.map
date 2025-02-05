@@ -15,6 +15,7 @@ l1uatm.sgamesuat.com l1_game_mobi_uat_be
 l1uatadminapi.sgamesuat.com l1_admin_api_uat_be
 l1uathistory.sgamesuat.com l1_game_history_uat_be
 l1uatawsapi.sgamesuat.com l1_sg_api_uat_be
+l1uatdirect.sgamesuat.com l1_direct_uat_be
 
 ## SIT
 l1sitdownload.sgamesuat.com l1_appdownload_sit_be
@@ -25,6 +26,7 @@ l1sitm.sgamesuat.com l1_game_mobi_sit_be
 l1sitadminapi.sgamesuat.com l1_admin_api_sit_be
 l1sithistory.sgamesuat.com l1_game_history_sit_be
 l1sitawsapi.sgamesuat.com l1_sg_api_sit_be
+l1sitdirect.sgamesuat.com l1_direct_sit_be
 
 ###L2
 ## UAT
@@ -35,6 +37,7 @@ l2uatm.sgamesuat.com l2_game_mobi_uat_be
 l2uatadminapi.sgamesuat.com l2_admin_api_uat_be
 l2uathistory.sgamesuat.com l2_game_history_uat_be
 l2uatawsapi.sgamesuat.com l2_sg_api_uat_be
+l2uatdirect.sgamesuat.com l2_direct_uat_be
 
 ## SIT
 l2sitkeno.sgamesuat.com l2_keno_sit_be
@@ -44,6 +47,7 @@ l2sitm.sgamesuat.com l2_game_mobi_sit_be
 l2sitadminapi.sgamesuat.com l2_admin_api_sit_be
 l2sithistory.sgamesuat.com l2_game_history_sit_be
 l2sitawsapi.sgamesuat.com l2_sg_api_sit_be
+l2sitdirect.sgamesuat.com l2_direct_sit_be
 
 ### GN
 ## UAT
