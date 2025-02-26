@@ -46,6 +46,10 @@
 ^/uat/site-104/ l1_marble_football_client_uat_be
 ^/uat/site-107/ l1_tap_fortune_client_uat_be
 ^/uat/direct-client-2/ l1_direct_sedie_client_uat_be
+^/uat/direct-client-10/ l1_direct_baccarat_client_uat_be
+^/uat/direct-client-22/ l1_direct_vip_sedie_client_uat_be
+^/uat/direct-client-26/ l1_direct_vip_fish_prawn_crab_client_uat_be
+^/uat/direct-client-67/ l1_direct_dragon_tiger_fight_client_uat_be
 
 ###SIT
 ^/sit/game-client-60/ l1_fantan_client_sit_be
@@ -129,3 +133,7 @@
 ^/sit/direct-client-2/ l1_direct_sedie_client_sit_be
 ^/sit/site-109/ l1_crypto_mining_client_sit_be
 ^/uat/site-109/ l1_crypto_mining_client_uat_be
+^/sit/direct-client-10/ l1_direct_baccarat_client_sit_be
+^/sit/direct-client-22/ l1_direct_vip_sedie_client_sit_be
+^/sit/direct-client-26/ l1_direct_vip_fish_prawn_crab_client_sit_be
+^/sit/direct-client-67/ l1_direct_dragon_tiger_fight_client_sit_be
