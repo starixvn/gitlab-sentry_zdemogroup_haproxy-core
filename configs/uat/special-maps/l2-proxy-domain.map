@@ -44,6 +44,11 @@
 ^/uat/site-instant-103/ l2_instant_seven_up_down_client_uat_be
 ^/uat/site-104/ l2_marble_football_client_uat_be
 ^/uat/site-107/ l2_tap_fortune_client_uat_be
+^/uat/direct-client-2/ l2_direct_sedie_client_uat_be
+^/uat/direct-client-10/ l2_direct_baccarat_client_uat_be
+^/uat/direct-client-22/ l2_direct_vip_sedie_client_uat_be
+^/uat/direct-client-26/ l2_direct_vip_fish_prawn_crab_client_uat_be
+^/uat/direct-client-67/ l2_direct_dragon_tiger_fight_client_uat_be
 
 
 ###SIT
@@ -128,3 +133,8 @@
 ^/sit/site-107/ l2_tap_fortune_client_sit_be
 ^/sit/site-109/ l2_crypto_mining_client_sit_be
 ^/uat/site-109/ l2_crypto_mining_client_uat_be
+^/sit/direct-client-2/ l2_direct_sedie_client_sit_be
+^/sit/direct-client-10/ l2_direct_baccarat_client_sit_be
+^/sit/direct-client-22/ l2_direct_vip_sedie_client_sit_be
+^/sit/direct-client-26/ l2_direct_vip_fish_prawn_crab_client_sit_be
+^/sit/direct-client-67/ l2_direct_dragon_tiger_fight_client_sit_be
