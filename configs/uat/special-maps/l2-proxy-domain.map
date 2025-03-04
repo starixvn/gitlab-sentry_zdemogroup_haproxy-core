@@ -49,6 +49,7 @@
 ^/uat/direct-client-22/ l2_direct_vip_sedie_client_uat_be
 ^/uat/direct-client-26/ l2_direct_vip_fish_prawn_crab_client_uat_be
 ^/uat/direct-client-67/ l2_direct_dragon_tiger_fight_client_uat_be
+^/uat/direct-client-107/ l2_direct_tap_fortune_client_uat_be
 
 
 ###SIT
@@ -138,3 +139,4 @@
 ^/sit/direct-client-22/ l2_direct_vip_sedie_client_sit_be
 ^/sit/direct-client-26/ l2_direct_vip_fish_prawn_crab_client_sit_be
 ^/sit/direct-client-67/ l2_direct_dragon_tiger_fight_client_sit_be
+^/sit/direct-client-107/ l2_direct_tap_fortune_client_sit_be
