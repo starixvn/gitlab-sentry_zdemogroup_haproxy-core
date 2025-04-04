@@ -143,3 +143,5 @@
 ^/sit/direct-client-107/ l2_direct_tap_fortune_client_sit_be
 ^/sit/direct-client-25/ l2_direct_sic_bo_client_sit_be
 ^/sit/direct-client-55/ l2_direct_monte_carlo_bigsmall_client_sit_be
+^/sit/direct-site-113/ l2_rocketx_client_sit_be
+^/uat/direct-site-113/ l2_rocketx_client_uat_be
