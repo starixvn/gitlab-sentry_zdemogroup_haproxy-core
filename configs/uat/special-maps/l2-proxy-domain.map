@@ -52,6 +52,7 @@
 ^/uat/direct-client-107/ l2_direct_tap_fortune_client_uat_be
 ^/uat/direct-client-25/ l2_direct_sic_bo_client_uat_be
 ^/uat/direct-client-55/ l2_direct_monte_carlo_bigsmall_client_uat_be
+^/uat/game-client-117/ l2_god_of_fortune_client_uat_be
 
 ###SIT
 ^/sit/game-client-60/ l2_fantan_client_sit_be
@@ -145,3 +146,4 @@
 ^/sit/direct-client-55/ l2_direct_monte_carlo_bigsmall_client_sit_be
 ^/sit/direct-client-113/ l2_direct_rocketx_client_sit_be
 ^/uat/direct-client-113/ l2_direct_rocketx_client_uat_be
+^/sit/game-client-117/ l2_god_of_fortune_client_sit_be
