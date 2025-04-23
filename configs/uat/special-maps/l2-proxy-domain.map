@@ -149,3 +149,5 @@
 ^/uat/direct-client-113/ l2_direct_rocketx_client_uat_be
 ^/sit/game-client-117/ l2_god_of_fortune_client_sit_be
 ^/sit/site-114/ l2_marble_football_2_client_sit_be
+^/sit/site-113/ l2_rocketx_client_sit_be
+^/uat/site-113/ l2_rocketx_client_uat_be
