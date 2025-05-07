@@ -151,6 +151,8 @@
 ^/sit/site-114/ l2_marble_football_2_client_sit_be
 ^/sit/site-113/ l2_rocketx_client_sit_be
 ^/uat/site-113/ l2_rocketx_client_uat_be
+^/uat/site-121/ l2_wukongs_revenge_client_uat_be
+^/sit/site-121/ l2_wukongs_revenge_client_sit_be
 ^/sit/direct-client-93/ l2_direct_football_coin_toss_client_sit_be
 ^/uat/direct-client-93/ l2_direct_football_coin_toss_client_uat_be
 ^/sit/game-client-133/ l2_temple_of_caishen_client_sit_be
