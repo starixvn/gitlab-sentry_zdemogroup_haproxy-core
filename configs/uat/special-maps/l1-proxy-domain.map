@@ -56,7 +56,7 @@
 ^/uat/game-client-117/ l1_god_of_fortune_client_uat_be
 ^/uat/site-121/ l1_wukongs_revenge_client_uat_be
 ^/uat/site-114/ l1_marble_football_2_client_uat_be
-^/uat/game-client-103/ l1_direct_seven_up_down_client_uat_be
+^/uat/direct-client-103/ l1_direct_seven_up_down_client_uat_be
 
 ###SIT
 ^/sit/game-client-60/ l1_fantan_client_sit_be
@@ -166,5 +166,5 @@
 ^/uat/game-client-124/ l1_ne_zhas_rebellion_client_uat_be
 ^/sit/game-client-122/ l1_summer_heat_client_sit_be
 ^/uat/game-client-122/ l1_summer_heat_client_uat_be
-^/sit/game-client-103/ l1_direct_seven_up_down_client_sit_be
+^/sit/direct-client-103/ l1_direct_seven_up_down_client_sit_be
 

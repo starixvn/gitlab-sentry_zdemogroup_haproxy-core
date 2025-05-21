@@ -54,7 +54,7 @@
 ^/uat/direct-client-55/ l2_direct_monte_carlo_bigsmall_client_uat_be
 ^/uat/game-client-117/ l2_god_of_fortune_client_uat_be
 ^/uat/site-114/ l2_marble_football_2_client_uat_be
-^/uat/game-client-103/ l2_direct_seven_up_down_client_uat_be
+^/uat/direct-client-103/ l2_direct_seven_up_down_client_uat_be
 
 ###SIT
 ^/sit/game-client-60/ l2_fantan_client_sit_be
@@ -166,4 +166,4 @@
 ^/uat/game-client-124/ l2_ne_zhas_rebellion_client_uat_be
 ^/sit/game-client-122/ l2_summer_heat_client_sit_be
 ^/uat/game-client-122/ l2_summer_heat_client_uat_be
-^/sit/game-client-103/ l2_direct_seven_up_down_client_sit_be
+^/sit/direct-client-103/ l2_direct_seven_up_down_client_sit_be
