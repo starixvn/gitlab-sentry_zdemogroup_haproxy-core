@@ -1,2 +1,4 @@
 /admin/ test_nginx_unprivileged_test_prod_be
 /admin/ test_nginx_unprivileged_test_prod1_be
+/admin/ test_nginx_unprivileged_test9_prod_be
+/admin/ test_nginx_unprivileged_test9_prod1_be
