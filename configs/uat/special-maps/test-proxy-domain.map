@@ -1,2 +1,4 @@
 /admin-uat/ test_nginx_unprivileged_test_uat_be
 /admin-sit/ test_nginx_unprivileged_test_sit_be
+/admin-sit/ test_nginx_unprivileged_test9_sit_be
+/admin-uat/ test_nginx_unprivileged_test9_uat_be
